@@ -1,5 +1,5 @@
 function setTopNavVisibility() {
-    var x = document.getElementById("mytopnav");
+    var x = document.getElementById("mytopnav2");
     if (x.className === "topnav") {
         x.className += " responsive";
     } else {
