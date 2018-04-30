@@ -149,7 +149,7 @@
     font-family: verdana;
     font-size: 1.2em;
 }
-#menu-vertial-aide-memoire-accordeon ul li a, #menu-vertical-aide-memoire-accordeon li:hover li a {
+#menu-vertial-aide-memoire-accordeon ul li a, #menu-vertical-aide-memoire-accordeon li:hover a {
     font-size:1em;
 }
 #menu-vertical-aide-memoire-accordeon li hover {
