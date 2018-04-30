@@ -402,17 +402,14 @@ menu accordeon in downloading
     font-size:1em;
 }
 #menu-vertical-aide-memoire-accordeon li:hover {
-    max-height: 50 em;
+    max-height: 30 em;
 }
 #menu-vertical-aide-memoire-accordeon li li:hover{
-    background:grey;
+    background:none;
 }
-#menu-vertical-aide-memoire-accordeon ul li:last-child {
-    border-radius: 0 0 6px 6px;
-    border: none;
-}
+
 #menu-vertical-aide-memoire-accordeon li:hover li {
-    max-height: 30em;
+    max-height: 15em;
 }
 
 /**********************************************
