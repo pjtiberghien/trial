@@ -394,9 +394,9 @@ menu accordeon in downloading
     display:block;
     text-decoration: none;
     color:white;
-    padding: 0 0 0 0;
+    padding: 8px 0;
     font-family: verdana;
-    font-size: 1.0em;
+    font-size: 1.2em;
 }
 #menu-vertical-aide-memoire-accordeon ul li a, #menu-vertical-aide-memoire-accordeon li:hover li a {
     font-size:1em;
@@ -408,11 +408,11 @@ menu accordeon in downloading
     background:grey;
 }
 #menu-vertical-aide-memoire-accordeon ul li:last-child {
-    border-radius: 0 0 0px 0px;
+    border-radius: 0 0 6px 6px;
     border: none;
 }
 #menu-vertical-aide-memoire-accordeon li:hover li {
-    max-height: 50 em;
+    max-height: 30em;
 }
 
 /**********************************************
