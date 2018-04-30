@@ -361,6 +361,7 @@ menu accordeon in downloading
 
 *********************************************/
 #menu-vertical-aide-memoire-accordeon, {
+    padding:0;
     margin:0;
     list-style: none;
     text-align: left;
@@ -386,7 +387,7 @@ menu accordeon in downloading
     overflow:hidden;
     transition: all .5s;
     border-radius: 0;
-    background: #444;
+    background: none;
     box-shadow: none;
 }
 #menu-vertical-aide-memoire-accordeon a {
@@ -397,7 +398,7 @@ menu accordeon in downloading
     font-family: verdana;
     font-size: 1.0em;
 }
-#menu-vertial-aide-memoire-accordeon ul li a, #menu-vertical-aide-memoire-accordeon li:hover li a {
+#menu-vertical-aide-memoire-accordeon ul li a, #menu-vertical-aide-memoire-accordeon li:hover li a {
     font-size:1em;
 }
 #menu-vertical-aide-memoire-accordeon li:hover {
