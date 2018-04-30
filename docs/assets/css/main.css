@@ -132,7 +132,7 @@
     border-radius: 0px;
     margin-bottom: .5px;   
 }
-#menu-vertical-aide-memoire-accordeon li {
+#menu-vertical-aide-memoire-accordeon li li {
     max-height: 0;
     overflow:hidden;
     transition: all .5s;
@@ -140,7 +140,7 @@
     background: #444;
     box-shadow: none;
 }
-#menu-vertical-aide-memoire-accordeon a{
+#menu-vertical-aide-memoire-accordeon a {
     display:block;
     text-decoration: none;
     color: black;
@@ -148,20 +148,20 @@
     font-family: verdana;
     font-size: 1.0em;
 }
-#menu-vertial-aide-memoire-accordeon ul a, #menu-vertical-aide-memoire-accordeon a:hover li a {
+#menu-vertial-aide-memoire-accordeon ul li a, #menu-vertical-aide-memoire-accordeon li:hover li a {
     font-size:1em;
 }
-#menu-vertical-aide-memoire-accordeon a:hover {
+#menu-vertical-aide-memoire-accordeon li:hover {
     background: grey;
     max-height: 15 em;
 }
-#menu-vertical-aide-memoire-accordeon a li:hover{
+#menu-vertical-aide-memoire-accordeon li li:hover{
     background:grey;
 }
 #menu-vertical-aide-memoire-accordeon ul li:last-child {
     border-radius: 0 0 0px 0px;
     border: none;
 }
-#menu-vertical-aide-memoire-accordeon a:hover li{
+#menu-vertical-aide-memoire-accordeon li:hover li {
     max-height: 15 em;
 }
