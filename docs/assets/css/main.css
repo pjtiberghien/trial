@@ -308,8 +308,10 @@ Box and button individual rules
 }
 
 /*********************************************
+
 Blog
- *********************************************/
+
+*********************************************/
 .blogpost h1, .blogpost h2, .blogpost h3, .blogpost h4 {
     color: darkblue;
 }
@@ -354,8 +356,10 @@ Blog
     width: 10em;
 }
 /*********************************************
+
 menu accordeon in downloading
- *********************************************/
+
+*********************************************/
 #menu-vertical-aide-memoire-accordeon, {
     margin:0;
     list-style: none;
@@ -388,8 +392,8 @@ menu accordeon in downloading
 #menu-vertical-aide-memoire-accordeon a {
     display:block;
     text-decoration: none;
-    color: black;
-    padding: 8px 0;
+    color:white;
+    padding: 0 0 0 0;
     font-family: verdana;
     font-size: 1.0em;
 }
@@ -397,8 +401,7 @@ menu accordeon in downloading
     font-size:1em;
 }
 #menu-vertical-aide-memoire-accordeon li:hover {
-    background: grey;
-    max-height: 15 em;
+    max-height: 30 em;
 }
 #menu-vertical-aide-memoire-accordeon li li:hover{
     background:grey;
@@ -408,7 +411,7 @@ menu accordeon in downloading
     border: none;
 }
 #menu-vertical-aide-memoire-accordeon li:hover li {
-    max-height: 15 em;
+    max-height: 30 em;
 }
 
 /**********************************************
