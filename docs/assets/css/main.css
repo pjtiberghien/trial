@@ -111,11 +111,10 @@
         text-align: left;
     }
 }
-#menu-vertical-aide-memoire-accordeon, #menu-vertical-aide-memoire-accordeon {
-    padding:0;
+#menu-vertical-aide-memoire-accordeon, {
     margin:0;
     list-style: none;
-    text-align: center;
+    text-align: left;
     width: 180 px;
 }
 
@@ -130,8 +129,8 @@
     background-color: none;
     background-image: none;
     background-image: none;
-    border-radius: 6px;
-    margin-bottom: 2px;   
+    border-radius: 0px;
+    margin-bottom: .5px;   
 }
 #menu-vertical-aide-memoire-accordeon li{
     max-height: 0;
@@ -139,7 +138,7 @@
     transition: all .5s;
     border-radius: 0;
     background: #444;
-    box-shadown:none;
+    box-shadow: none;
 }
 #menu-vertical-aide-memoire-accordeon a{
     display:block;
@@ -147,9 +146,9 @@
     color: black;
     padding: 8px 0;
     font-family: verdana;
-    font-size: 1.2em;
+    font-size: 1.0em;
 }
-#menu-vertial-aide-memoire-accordeon ul li a, #menu-vertical-aide-memoire-accordeon li:hover a {
+#menu-vertial-aide-memoire-accordeon ul a, #menu-vertical-aide-memoire-accordeon a:hover {
     font-size:1em;
 }
 #menu-vertical-aide-memoire-accordeon a:hover {
@@ -160,4 +159,6 @@
     border-radius: 0 0 0px 0px;
     border: none;
 }
-#menu-vertical-aide-memoire-accordeon 
+#menu-vertical-aide-memoire-accordeon a:hover li{
+    max-height: 15 em;
+}
