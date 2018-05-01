@@ -384,7 +384,7 @@ menu accordeon in downloading
     background-image: none;
     background-image: none;
     border-radius: 0px;
-    margin-bottom: .5px;   
+    margin-bottom: 0px;   
 }
 #menu-vertical-aide-memoire-accordeon li li {
     max-height: 0;
