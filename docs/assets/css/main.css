@@ -307,6 +307,9 @@ Box and button individual rules
     border: none;
     background-image: linear-gradient(RGBA(0, 175, 216, 1), RGBA(215, 215, 215, 1));
 }
+#telecharger h1{
+    text-align: center;
+}
 
 /*********************************************
 
