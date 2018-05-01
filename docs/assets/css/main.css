@@ -413,7 +413,7 @@ menu accordeon in downloading
 }
 
 #menu-vertical-aide-memoire-accordeon li:hover li {
-    max-height: 2em;
+    max-height: 10em;
 }
 
 /**********************************************
