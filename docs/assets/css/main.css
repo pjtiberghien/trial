@@ -468,12 +468,11 @@ Background images
 
 #home {
         background-image: url("images/headerFD.jpg");
-        padding-top: 15em;
+        padding-top: 30em;
     }
 
 #telecharger {
         background-image: url("images/leguideFD.jpg");
-        min-width: 90%;
     }
 
 #bientotdisponible {
