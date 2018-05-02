@@ -310,6 +310,12 @@ Box and button individual rules
 #telecharger h1{
     text-align: center;
 }
+#telecharger h3{
+    text-align: center;
+}
+#telecherger p{
+    text-align: center;
+}
 
 /*********************************************
 
@@ -460,20 +466,20 @@ Background images
 #inscription h3 {
     text-align: center;
 }
-    #home {
+#home {
         background-image: url("images/headerFD.jpg");
         padding-top: 15em;
     }
 
-    #telecharger {
+#telecharger {
         background-image: url("images/leguideFD.jpg");
     }
 
-    #bientotdisponible {
+#bientotdisponible {
         background-image: url("images/plongeonsFD.jpg");
     }
 
-    #reseauxsociaux {
+#reseauxsociaux {
         background-image: url("images/plongeonFD.jpg");
     }
 @media screen and (max-width: 799px){
@@ -488,7 +494,7 @@ Background images
 
     #telecharger {
         background-image: url("images/leguideLD.jpg");
-        padding-bottom: 15em;
+        padding-bottom: 3em;
     }
 
     #bientotdisponible {
@@ -504,7 +510,7 @@ Background images
 
 @media screen and (min-width: 800px) {
     .withbackground {
-        min-height: 700px;
+        min-width: 90%;
     }
 }
 
