@@ -316,6 +316,9 @@ Box and button individual rules
 #telecherger p{
     text-align: center;
 }
+#inscription h3 {
+    text-align: center;
+}
 
 /*********************************************
 
@@ -463,9 +466,6 @@ Background images
     background-size: cover;
 }
 
-#inscription h3 {
-    text-align: center;
-}
 #home {
         background-image: url("images/headerFD.jpg");
         padding-top: 15em;
@@ -489,7 +489,7 @@ Background images
     #home {
         background-image: url("images/headerLD.jpg");
         padding-top: 15em;
-        padding-bottom: 15em
+        padding-bottom: 15em;
             }
 
     #telecharger {
@@ -510,7 +510,7 @@ Background images
 
 @media screen and (min-width: 800px) {
     .withbackground {
-        min-width: 90%;
+        min-height:700px;
     }
 }
 
