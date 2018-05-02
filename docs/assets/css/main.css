@@ -473,6 +473,7 @@ Background images
 
 #telecharger {
         background-image: url("images/leguideFD.jpg");
+        min-width: 90%;
     }
 
 #bientotdisponible {
