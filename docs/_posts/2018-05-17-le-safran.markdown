@@ -2,7 +2,7 @@
 layout: default
 author: BJY
 title:  Le safran, élément capital de la performance, de la sécurité et du toucher de barre
-date:   2018-07-16 18:00:00
+date:   2018-05-17 18:00:00
 categories: main
 image: /assets/css/images/blog/safran.jpg
 description: "le safran du bateau, élément capital en terme de toucher de barre, de sécurité, de performance"
@@ -58,7 +58,7 @@ C’est le toucher de barre fait la différence entre les grands barreurs. Leur 
 
 Ce sont principalement dans les virements de bord que l’on peut essayer de s’améliorer. Sur un voilier, le virement doit être franc, mais sans trop casser la vitesse. La trajectoire du bateau doit être la plus rectiligne possible.
  
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
 
-
-
-
+<H3>Si vous avez aimé, Dites-le sur <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/05/17/le-safran.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook-icon-S.png"
+            id="FB" class="socialicon"></a></H3>
