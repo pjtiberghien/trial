@@ -65,7 +65,7 @@ video {
     top: 0;
     left: 0;
     width: 100%;
-    background-image: linear-gradient(RGBA(32, 89, 140, 1), RGBA(1, 171, 213, 1));
+    background-image: none;
     overflow: hidden;
     z-index: 1000;
 
@@ -76,7 +76,7 @@ video {
     display: block;
     text-align: center;
     padding: 1.5em;
-    color: white;
+    color: linear-gradient(RGBA(32, 89, 140, 1), RGBA(1, 171, 213, 1));
     text-decoration: none;
     font-size: 1.3em;
     text-shadow: 1px 1px 1px #0F0F0F;
