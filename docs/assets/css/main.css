@@ -65,7 +65,7 @@ video {
     top: 0;
     left: 0;
     width: 100%;
-    background-image: none;
+    background-image: RBGA(0, 0, 0, 0.5);
     overflow: hidden;
     z-index: 1000;
 
