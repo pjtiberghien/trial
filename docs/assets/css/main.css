@@ -76,7 +76,7 @@ video {
     display: block;
     text-align: center;
     padding: 1.5em;
-    color: linear-gradient(RGBA(0, 87, 127, 1), RGBA(203, 232, 251, 1));
+    color: RGBA(0, 87, 127, 1);
     text-decoration: none;
     font-size: 1.3em;
     text-shadow: 1px 1px 1px #0F0F0F;
