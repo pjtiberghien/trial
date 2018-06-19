@@ -65,7 +65,7 @@ video {
     top: 0;
     left: 0;
     width: 100%;
-    background-image: linear-gradient(RGBA(203, 232, 251, 0.5) RGBA(0,175,216,0.5));
+    background-image: linear-gradient(RGBA(203, 232, 251, 0.8) RGBA(0,175,216,0.8));
     overflow: hidden;
     z-index: 1000;
 
