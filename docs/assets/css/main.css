@@ -65,7 +65,7 @@ video {
     top: 0;
     left: 0;
     width: 100%;
-    background-image: linear-gradient(RGBA(203, 232, 251, 0.8) RGBA(0,175,216,0.8));
+    background-image: linear-gradient(RGBA(32, 89, 140, 1), RGBA(1, 171, 213, 1));
     overflow: hidden;
     z-index: 1000;
 
@@ -76,7 +76,7 @@ video {
     display: block;
     text-align: center;
     padding: 1.5em;
-    color: RGBA(0, 87, 127, 1);
+    color: white;
     text-decoration: none;
     font-size: 1.3em;
     text-shadow: 1px 1px 1px #0F0F0F;
@@ -435,7 +435,7 @@ Background images
 }
 
 #cartedutour {
-    background-image: url("images/tablette-1.png");
+    background-image: none;
 }
 
 #histoireimg {
@@ -467,7 +467,7 @@ Background images
 }
 
 #home {
-        background-image: url("images/headerFD.jpg");
+        background-image: url("images/ecran-ppal-FD.jpg");
         padding-top: 30em;
     }
 
