@@ -468,6 +468,7 @@ Background images
 
 #home {
         background-image: url("images/main-HD.png");
+        background-size: cover;
         padding-top: 30em;
     }
 
@@ -488,6 +489,7 @@ Background images
     }
     #home {
         background-image: url("images/main-LD.png");
+        background-size: cover;
         padding-top: 15em;
         padding-bottom: 15em;
             }
