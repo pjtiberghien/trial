@@ -436,6 +436,7 @@ Background images
 
 #cartedutour {
     background-image: url("images/mockupHD.png");
+    background-position: center;
 }
 
 #histoireimg {
@@ -468,7 +469,7 @@ Background images
 
 #home {
         background-image: url("images/main-HD.png");
-        background-size: cover;
+        background-size: contain;
         padding-top: 30em;
     }
 
