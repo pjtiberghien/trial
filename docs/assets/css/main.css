@@ -280,6 +280,10 @@ Individual rules
     text-align: center;
 }
 
+#assistance {
+    text-align: center;
+}
+
 footer {
     background-image: linear-gradient(RGB(1, 171, 213), RGB(32, 89, 140));
     text-align: center;
