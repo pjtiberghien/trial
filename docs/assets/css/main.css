@@ -445,7 +445,7 @@ Background images
     background-size: cover;
 }
 
-#appmobile, #cartedutour, #histoireimg #assistance_image {
+#appmobile, #cartedutour, #histoireimg, #assistance_image {
     min-height: 30em;
     background-position: left;
     background-repeat: no-repeat;
