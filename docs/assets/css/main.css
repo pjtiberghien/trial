@@ -54,7 +54,7 @@ video {
 }
 
 button_navbar {
-    background-color: RGB(32, 89, 140);
+    background-color: linear-gradient(RGB(32, 89, 140),RGB(1,171,213));
     border: none;
     color: white;
     padding: .2em;
@@ -174,7 +174,7 @@ General boxing rules
     background-size: cover;
     background-position: center;
     width: 100%;
-    min-height: 30em;
+    min-height: 20em;
     overflow: hidden;
     background-image: url("/assets/css/images/headerFD.jpg");
     text-shadow: 2px 2px 2px #0F0F0F;
