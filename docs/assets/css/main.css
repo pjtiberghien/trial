@@ -54,7 +54,7 @@ video {
 }
 
 #navbar {
-    background-color: linear-gradient(RGBa(32, 89, 140,1),RGBa(1,171,213,1));
+    background-image: linear-gradient(RGBa(32, 89, 140,1),RGBa(1,171,213,1));
     border: none;
     color: white;
     padding: .5em;
@@ -63,7 +63,7 @@ video {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 1em;
+    font-size: .8em;
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 /*********************************************
