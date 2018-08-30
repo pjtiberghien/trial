@@ -54,16 +54,16 @@ video {
 }
 
 #navbar {
-    background-color: linear-gradient(RGB(32, 89, 140),RGB(1,171,213));
+    background-color: linear-gradient(RGBa(32, 89, 140,1),RGBa(1,171,213,1));
     border: none;
     color: white;
-    padding: .2em;
-    margin: .2em;
+    padding: .5em;
+    margin: .5em;
     border-radius: 4px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 1em;
+    font-size: 1.2em;
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 /*********************************************
@@ -78,7 +78,7 @@ video {
     top: 0;
     left: 0;
     width: 100%;
-    background-image: linear-gradient(RGBA(32, 89, 140, 1,0.1), RGBA(1, 171, 213, 10.1));
+    background-image: linear-gradient(RGBA(32, 89, 140, 1,0.1), RGBA(1, 171, 213, 1,0.1));
     overflow: hidden;
     z-index: 1000;
 
