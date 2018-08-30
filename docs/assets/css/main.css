@@ -487,7 +487,7 @@ Background images
 #home {
         background-image: url("images/main-HD.png");
         background-size: contain;
-        padding-top: 30em;
+        padding-top: 20em;
     }
 
 #telecharger {
@@ -512,8 +512,8 @@ Background images
     #home {
         background-image: url("images/main-LD.png");
         background-size: cover;
-        padding-top: 15em;
-        padding-bottom: 15em;
+        padding-top: 20em;
+        padding-bottom: 20em;
             }
 
     #telecharger {
